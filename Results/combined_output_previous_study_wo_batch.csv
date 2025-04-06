@@ -1,0 +1,6 @@
+repeat,dataset,dataset size,MSE,MAE,R2
+repeat0,merged_data.csv,11092,2.507,1.24,0.677
+repeat1,merged_data.csv,11092,2.608,1.233,0.651
+repeat2,merged_data.csv,11092,2.317,1.164,0.677
+repeat3,merged_data.csv,11092,2.283,1.168,0.675
+repeat4,merged_data.csv,11092,2.582,1.261,0.644
